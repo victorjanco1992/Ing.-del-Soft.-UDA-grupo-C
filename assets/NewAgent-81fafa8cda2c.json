@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bionic-flux-314617",
+  "private_key_id": "c919e18b187a1d5f54bd504c0a2875e72cac2c50",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQClS52+AiaMlnII\ntkcbNeBTDWKfWmjGJmprwMxvIKE8zsuMtTTeijGyXGX1+MIFM7KVee+PXaHBUIg8\ntK7LzNWjFLOSE+wTWgvAT6iEo1BSoUUi8ROaxMU6exO6cCL4m3O5Cv02aR4CDoJu\ny3A12fKO9wtbl+Ou3YKzMN48yPlxP1gGWTeMA+yM/v5xIv0jM1nTHi5WMcJHats7\nzjmown2y+chzk2Q1FO0DArHtspkh3joxXPXcA+mOARwPva8N1NqIa6Iprww/Jag7\nefbX65Bv6P3VOCsd4A7NaVzvLVfC3ZyjiFJkzXeWYPuSRqTjX2vzbMe99XzBhaJ7\novukD5PhAgMBAAECgf8a0opmVYhWh+iOlrAzL4BB+d9nEboEGCJsxHxoDANzZUXi\nhK/E7OfjlDAiGfEMpwxI9TXKgzHHDNUOr23YjwSb0grRntSleeyDkxQ6xxrhownK\nVxRh/kwtkTXtAFqsZ41VGai9NjwzA+e70tytNbtb4lAVgjA6z/ca3MiIqel7AWmj\nZ7iaaK/VNV04sakLQaDZOf9iXS35sC2TwxDK8LcS2lTVmn7Xs0sP50zdUircUFNF\nqf/gErZV0uFyismvVvEdwP5d8qWoqIZcfYf8tQkNnrLwpm3w9Gyxo3XrryEcv6TN\nOct/q272bAoEFZxY6tA4tNryWIwg20u/mvAQoSkCgYEAz/OklWxk/ViBnXjE5ylW\nP0LRIWsR1d0gH7WItbLk2X21GqjWHnzBTxX/zFj+FAeUrKeSgpADKKD8Jh2GE56W\nMGNYOKxq6kZM9RgRTytlZsl/XAYlP/L1PvW8PemMZlTl1hrf9nwS8yv8DD3lDF+2\noBbRnl5++efEo2yOGncUUYkCgYEAy3zY7xp0Uhy95eVD2nrDIqW8qqm7IgsTGGFo\n1xLYM2Zn7ZnXOj2q2jCdCWrf+VPrdN9ca1nvRHGMO2Z/FIPFdUP3Qr4ThCvb7thW\nksHoXfefSJjMVzf0oDGrp8XT/TY7AxQeIozELdbfJaIxDkdnGZQTHSGgJQgM9CP5\nzFsK0ZkCgYBUp1ONvJWUCM6jA0Hs9If2ssWdvA+Dp0PnhKgFh7Df1Ou/0ZFw0cqD\n3mnGj0fHcZqVepYK7oNKq9ZZ0dT98aYkRpzoXVAc1MeJUuXg+8KIyGg/VwUc9lPd\n8H1UGtob4l25/jDED5hLQ9GUTjILCn+2xfNJbCB2rWIAQTXMEkPEOQKBgFU4kUX6\nJ1MoVGOO1A8RMN422UAEW6oTR0kDqrvAWamVLtt0fY4Xu5EroOkLyIeMHOVSkksn\nXCym/Vr3PyuhUDYfY9Og9V16XN633fISobWQ+jWWQKYaeioJA2H9WR4H80kDyOch\nWxvzjHsfZTocr1IoEKU3qvE3YO1yj7CFRI+pAoGASZd5QlhMZR3JZl1ud0ooXL/P\neLjbkXQ2P4dwtXihhvjTj7cReeKds/5hF5GIy8d9o42CQBYrYx4a24dN1M9uzJlN\nGjFXtNiSDw3GnFhsUh9svIHJsGLA/MdE1Huk43cdf0gbIj7hWZAEiInIHza9RDQ/\nP9a2/Vy7+1QTV59FaE4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bionic-flux-314617@appspot.gserviceaccount.com",
+  "client_id": "105511569698393346221",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bionic-flux-314617%40appspot.gserviceaccount.com"
+}
